@@ -19,3 +19,13 @@ D:\Материалы и документы с пар\шифрЦезаря\Caesa
 D:\Материалы и документы с пар\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.csproj.CoreCompileInputs.cache
 D:\Материалы и документы с пар\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.exe
 D:\Материалы и документы с пар\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.pdb
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\bin\Debug\CaesarShipher.exe.config
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\bin\Debug\CaesarShipher.exe
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\bin\Debug\CaesarShipher.pdb
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.csproj.AssemblyReference.cache
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarCipher.Form1.resources
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.Properties.Resources.resources
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.csproj.GenerateResource.cache
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.csproj.CoreCompileInputs.cache
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.exe
+E:\Winter Qest\шифрЦезаря\CaesarShipher\CaesarShipher\obj\Debug\CaesarShipher.pdb
